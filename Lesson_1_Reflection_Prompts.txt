@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It focused my attention on the only places that had a difference where the
+    bug would be located.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can see where I can group a bunch of smaller changes to the code to form
+    a much larger change.  Also, I can see where I learned a new concept or
+    way of doing something that would be useful in the future.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro: Rather than having a lot of smaller changes, have a smaller number
+         of larger changes.  Larger changes are better to see the progress
+         than having to wade through an ocean of small changes.
+    Con: You may forget to do a commit at the best possible time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    A software system is the netire collection of files with all the files
+    interdependent and changes in several files form alogic unit o change.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I use git log to see the commits made in order to find the commit with the
+    change that may have the error introduced.  I use git diff to see the
+    difference in my code between that commit and the previos commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always restore your code to the last correct version and resume
+    there to fix the bug.  But, if that doesn't work you can restore back to
+    the latest version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For my course on Front End Web Development as well as in teaching my
+    course that utilize programming assignments where my students can learn a
+    useful tool they'll need in their career.
