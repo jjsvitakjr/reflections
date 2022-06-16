@@ -8,3 +8,10 @@ Why might you want to always pull changes manually rather than having Git automa
     You may want to work with the previous version for a while to experiment but then revert
     back to that previous version.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    Fork is when you want to use a repository that you can't change by creating your own
+    version of it.
+    Clone is when you want to use a repository on your local machine.
+    Branch is when you want to experiment with another branch of your repository.
+
