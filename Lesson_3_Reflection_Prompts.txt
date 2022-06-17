@@ -25,3 +25,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     Using a file sharing website.  Not needing to remember a lot of commands would be
     easier.  It would be harder to know what changes have been made.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    When you are testing a feature that you're not sure you want it in the working code.
+    It keeps the working code unchanged until you determine if the new feature is working
+    and ready to incorporate it into the working code.
+
