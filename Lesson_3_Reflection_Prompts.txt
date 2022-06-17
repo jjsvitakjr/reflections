@@ -20,3 +20,8 @@ What is the benefit of having a copy of the last known state of the remote store
     In case there have been changes to the remote repository then we can see if the local
     and remote repositories need a merge.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    Using a file sharing website.  Not needing to remember a lot of commands would be
+    easier.  It would be harder to know what changes have been made.
+
